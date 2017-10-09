@@ -2,7 +2,7 @@
 ## Programming Assignment 2 
 ## By M G, 10/9/2017
 ## Functions to store/cache an inverse of a matrix along with the matrix
-##Test Commit
+
 
 ## Function to set and get values of matrix and inverse  
 makeCacheMatrix <- function(x = matrix()) {
